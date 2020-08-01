@@ -9,12 +9,12 @@
 
 ### My Tech Stack
 
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![JavaSpark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=Spark)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 

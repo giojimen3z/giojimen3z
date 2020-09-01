@@ -5,7 +5,7 @@
 [![Linkedin: CamiloJimenez](https://img.shields.io/badge/-GiovannyJimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaime-giovanny-jimenez-boyaca-357abbba/)](https://www.linkedin.com/in/jaime-giovanny-jimenez-boyaca-357abbba/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/camiloj896?label=follow&style=social)](https://github.com/giojimen3z)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width="50"> A little more about me...  
 
 ### My Tech Stack
 

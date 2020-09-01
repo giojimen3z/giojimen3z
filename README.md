@@ -1,5 +1,5 @@
 <h2> Hi, I'm Giovanny Jimenez! <img src="https://media.giphy.com/media/8EmeieJAGjvUI/giphy.gif" width="30" align="center"></h2>
-<p><em>software engineering student at <a href="https://unipanamericana.edu.co/">Unipanamericana University Foundation</a><img src="https://cdn.ticbeat.com/src/uploads/2018/04/estudios-universidad-810x540.jpg" width="30"></br>developer architect at <a href="https://www.ceiba.com.co/en/">Ceiba Software</a><img src="https://media.giphy.com/media/Za99XTI3DSGflOfX0g/giphy.gif" width="40"> 
+<p><em>software engineering student at <a href="https://unipanamericana.edu.co/">Unipanamericana University Foundation</a><img src="https://cdn.ticbeat.com/src/uploads/2018/04/estudios-universidad-810x540.jpg" width="30"></br>developer architect at <a href="https://www.ceiba.com.co/en/">Ceiba Software</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 [![Linkedin: CamiloJimenez](https://img.shields.io/badge/-GiovannyJimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaime-giovanny-jimenez-boyaca-357abbba/)](https://www.linkedin.com/in/jaime-giovanny-jimenez-boyaca-357abbba/)

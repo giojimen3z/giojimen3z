@@ -3,6 +3,7 @@
 
 [![Linkedin: GiovannyJimenez](https://img.shields.io/badge/-GiovannyJimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaime-giovanny-jimenez-boyaca-357abbba/)](https://www.linkedin.com/in/jaime-giovanny-jimenez-boyaca-357abbba/)
 [![GitHub Follow](https://img.shields.io/github/followers/giojimen3z?label=follow&style=social)](https://github.com/giojimen3z)
+![](https://komarev.com/ghpvc/?username=giojimen3z&label=PROFILE+VIEWS&color=blue&style=flat-square)
 
 ---
 
@@ -11,6 +12,18 @@
 I’m a seasoned Software Engineer specialized in backend development with strong expertise in Golang and Java. Certified as a Full Stack Developer and recently trained in Generative AI and Prompt Engineering. I bring over 7 years of experience designing and building scalable, cloud-native backend systems using hexagonal architecture, event-driven design, and microservices.
 
 I’m passionate about clean code, software craftsmanship, and modern engineering practices such as TDD, BDD, DDD, and the AAA testing pattern. I’ve contributed to complex systems in high-impact environments like Globant, MercadoLibre, and MAS Global, and I actively mentor teams and participate in architectural decisions.
+
+---
+
+### 📊 GitHub Stats
+
+![Giovanny GitHub Stats](https://github-readme-stats.vercel.app/api?username=giojimen3z&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=giojimen3z&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giojimen3z&layout=compact&theme=dark&langs_count=8)](https://github.com/giojimen3z)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=giojimen3z&theme=onedark&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -76,7 +89,7 @@ I’m passionate about clean code, software craftsmanship, and modern engineerin
   <img src="https://img.icons8.com/color/48/chatgpt.png" width="40" alt="ChatGPT"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="OpenAI"/>
- <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" alt="Google Gemini"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" alt="Google Gemini"/>
 </p>
 
 #### 🛠️ IDEs & Tools
@@ -85,12 +98,6 @@ I’m passionate about clean code, software craftsmanship, and modern engineerin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" width="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-![Giovanny GitHub Stats](https://github-readme-stats.vercel.app/api?username=giojimen3z&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 

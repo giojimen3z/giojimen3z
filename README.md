@@ -76,7 +76,7 @@ I’m passionate about clean code, software craftsmanship, and modern engineerin
   <img src="https://img.icons8.com/color/48/chatgpt.png" width="40" alt="ChatGPT"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Midjourney_Icon.png" width="40" alt="Midjourney"/>
+ <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" alt="Google Gemini"/>
 </p>
 
 #### 🛠️ IDEs & Tools

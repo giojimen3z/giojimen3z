@@ -37,7 +37,7 @@
 
 ### Cloud
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+ <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
 </p>
 
@@ -47,7 +47,7 @@
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="40" alt="Prometheus"/>
   <img src="https://cdn.simpleicons.org/datadog/632CA6" width="40" alt="Datadog"/>
   <img src="https://cdn.simpleicons.org/newrelic/008C99" width="40" alt="New Relic"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="CloudWatch"/>
+  <img src="https://www.svgrepo.com/show/353446/aws-cloudwatch.svg" width="40" alt="CloudWatch"/>
   <img src="https://cdn.simpleicons.org/kibana/005571" width="40" alt="Kibana"/>
 </p>
 

@@ -17,13 +17,10 @@ I’m passionate about clean code, software craftsmanship, and modern engineerin
 
 ### 📊 GitHub Stats
 
-![Giovanny GitHub Stats](https://github-readme-stats.vercel.app/api?username=giojimen3z&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giojimen3z&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giojimen3z&layout=compact&theme=dark&langs_count=8)](https://github.com/giojimen3z)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=giojimen3z&theme=onedark&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
